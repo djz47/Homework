@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="image_catch" type="image_store_node.py" name="image_store_node"/>
+    <node pkg="image_catch" type="image_catch_node.py" name="image_catch_node"/>
+    
+</launch>
