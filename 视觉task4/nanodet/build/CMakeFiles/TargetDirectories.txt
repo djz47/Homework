@@ -1,0 +1,3 @@
+/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build/CMakeFiles/rebuild_cache.dir
+/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build/CMakeFiles/edit_cache.dir
+/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build/CMakeFiles/nanodet_demo.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build",
+  "command": "/usr/bin/c++   -I/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn -I/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build -isystem /usr/local/include/opencv -isystem /home/ding/ncnn/build/install/include/ncnn   -fopenmp -g -fPIE   -fopenmp -std=gnu++17 -o CMakeFiles/nanodet_demo.dir/main.cpp.o -c /home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn/main.cpp",
+  "file": "/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn/main.cpp"
+},
+{
+  "directory": "/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build",
+  "command": "/usr/bin/c++   -I/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn -I/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/build -isystem /usr/local/include/opencv -isystem /home/ding/ncnn/build/install/include/ncnn   -fopenmp -g -fPIE   -fopenmp -std=gnu++17 -o CMakeFiles/nanodet_demo.dir/nanodet.cpp.o -c /home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn/nanodet.cpp",
+  "file": "/home/ding/winter_train/ROS_vision/homework/视觉task4/nanodet/nanodet/demo_ncnn/nanodet.cpp"
+}
+]
