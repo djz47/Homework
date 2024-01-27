@@ -741,7 +741,7 @@ FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[/usr/local][v3.4.15()]
 //Details about finding PY_em
 FIND_PACKAGE_MESSAGE_DETAILS_PY_em:INTERNAL=[/usr/lib/python3/dist-packages/em.py][v()]
 //Details about finding Python3
-FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/home/ding/miniconda3/lib/python3.8/site-packages/numpy/core/include][cfound components: NumPy Interpreter Development ][v3.8.13()]
+FIND_PACKAGE_MESSAGE_DETAILS_Python3:INTERNAL=[/home/ding/miniconda3/lib/python3.8/site-packages/numpy/core/include][cfound components: NumPy Interpreter Development ][v3.8.18()]
 //Details about finding PythonInterp
 FIND_PACKAGE_MESSAGE_DETAILS_PythonInterp:INTERNAL=[/usr/bin/python3][v3.8.10()]
 //Details about finding Threads

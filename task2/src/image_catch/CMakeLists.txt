@@ -153,7 +153,10 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 # target_link_libraries(${PROJECT_NAME}_node
 #   ${catkin_LIBRARIES}
 # )
-
+add_executable(image_catch_node src/image_catch_node.cpp)
+target_link_libraries(image_catch_node ${catkin_LIBRARIES})
+add_executable(image_store_node src/image_store_node.cpp)
+target_link_libraries(image_store_node ${catkin_LIBRARIES})
 #############
 ## Install ##
 #############
