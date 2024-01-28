@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>Tianchi</folder>
+<filename>aug_9_rice01.jpg</filename>
+<source>
+<database>The Tianchi Database</database>
+<annotation>Tianchi</annotation>
+</source>
+<size>
+<width>2834</width>
+<height>1700</height>
+<depth>3</depth>
+</size>
+<object>
+<name>rice</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>619</xmin>
+<ymin>354</ymin>
+<xmax>1926</xmax>
+<ymax>1211</ymax>
+</bndbox>
+</object>
+</annotation>
