@@ -1,8 +1,8 @@
 # 视觉Task2
 ## 一、完成流程
 1. 安装usb_cam包  
-   ```git clone https://github.com/ros-drivers/usb_cam.git```  
-2. 运行`roslaunch usb_cam usb_cam.launch`查看功能包是否正常安装
+   ```sudo apt-get install ros-kinetic-usb-cam```  
+2. 运行`roslaunch usb_cam usb_cam-test.launch`查看功能包是否正常安装
 3. 确定Topic需要的消息类型，到ROS.index上进行查找
 4. 创建功能包，并且在`CMakelist.txt`和`package.xml`中加入opencv相关配置
 5. 编写节点py文件：初步分析可得，节点1既是接受usb_cam信息的subscriber，又是给节点2发送信息的publisher，节点2只需要接受节点1的消息
