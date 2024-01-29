@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>Tianchi</folder>
+<filename>aug_1_corn04.jpg</filename>
+<source>
+<database>The Tianchi Database</database>
+<annotation>Tianchi</annotation>
+</source>
+<size>
+<width>2311</width>
+<height>1640</height>
+<depth>3</depth>
+</size>
+<object>
+<name>corn_plant</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>716</xmin>
+<ymin>50</ymin>
+<xmax>1671</xmax>
+<ymax>1584</ymax>
+</bndbox>
+</object>
+</annotation>

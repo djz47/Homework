@@ -1,0 +1,6 @@
+train : datasets/winter_task5_YOLOv5/ImageSets/train
+val : datasets/winter_task5_YOLOv5/ImageSets/val
+test : datasets/winter_task5_YOLOv5_/ImageSets/test
+
+nc: 7
+names: ["corn","corn_plant","cucumber","cucumber_plant","watermelon","rice","wheat"]

@@ -30,22 +30,24 @@ make
   ![image-20240128142907410](https://raw.githubusercontent.com/djz47/test/main/202401281429440.png)
 
 - **使用labelimg给图片数据集进行标注**
+  
   1. 将`/labelimg/data/predefined_classes.txt`中修改为自定义数据集中的类
   2. 运行labelimg进行打标，AD左右切换图片，W创建标注框，将标注的VOC文件存储到项目临时文件夹中
-
+  
 - **使用数据集增强功能包进行数据集增强**
+  
   1. 将数据集的标注和标注好的标注文件分别存储到功能包`DataAugForObjectDetecton`中的`/data/Annotations`和`/data/images`中
   2. 进入`DataAugForObjectDetecton.py`文件，到程序入口处修改`need_aug_num = 10`,这是每张图片进行扩增的数量
   3. 运行`DataAugForObjectDetecton.py`文件，在Dataset文件夹下可以找到扩增后的标签与数据集
   4. 将标签与数据集移动到项目中对应的文件夹
-
+  
 - 划分训练集、测试集和验证集
 
   运行`spit.py`文件，调节其中的参数可以改变三者的比例大小
 
 - VOC标签转YOLO
 
-  运行`voc_lavel.py`文件，转化后的标签将存储在label文件夹中
+  运行`voc_lavel.py`文件，转化后的标签将存储在labels文件夹中
 
 - 写入2007_test.txt(2007_train.txt 2007_val.txt)
 

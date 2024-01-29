@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>Tianchi</folder>
+<filename>aug_4_watermelon09.jpg</filename>
+<source>
+<database>The Tianchi Database</database>
+<annotation>Tianchi</annotation>
+</source>
+<size>
+<width>230</width>
+<height>168</height>
+<depth>3</depth>
+</size>
+<object>
+<name>watermelon</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>24</xmin>
+<ymin>2</ymin>
+<xmax>213</xmax>
+<ymax>168</ymax>
+</bndbox>
+</object>
+</annotation>

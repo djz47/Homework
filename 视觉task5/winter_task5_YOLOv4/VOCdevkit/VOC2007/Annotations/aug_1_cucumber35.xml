@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>Tianchi</folder>
+<filename>aug_1_cucumber35.jpg</filename>
+<source>
+<database>The Tianchi Database</database>
+<annotation>Tianchi</annotation>
+</source>
+<size>
+<width>449</width>
+<height>300</height>
+<depth>3</depth>
+</size>
+<object>
+<name>cucumber_plant</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>113</xmin>
+<ymin>30</ymin>
+<xmax>377</xmax>
+<ymax>296</ymax>
+</bndbox>
+</object>
+</annotation>
