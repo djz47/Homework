@@ -1,6 +1,0 @@
-classes = 7
-train  = /home/ding/deeplearning_task/winter_task5/VOCdevkit/2007_train.txt
-valid  = /home/ding/deeplearning_task/winter_task5/VOCdevkit/2007_val.txt
-test   = /home/ding/deeplearning_task/winter_task5/VOCdevkit/2007_test.txt
-names = /home/ding/deeplearning_task/winter_task5/VOCdevkit/voc.names
-backup = /home/ding/deeplearning_task/winter_task5/VOCdevkit/VOC2007/backup
