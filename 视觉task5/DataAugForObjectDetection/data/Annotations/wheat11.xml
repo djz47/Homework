@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages-origin</folder>
+	<filename>wheat11.jpg</filename>
+	<path>/home/ding/deeplearning_task/wainter_task5/VOCdevkit/VOC2007/JPEGImages-origin/wheat11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>97</ymin>
+			<xmax>652</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

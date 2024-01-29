@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages-origin</folder>
+	<filename>rice15.jpg</filename>
+	<path>/home/ding/deeplearning_task/wainter_task5/VOCdevkit/VOC2007/JPEGImages-origin/rice15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>525</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>111</ymin>
+			<xmax>376</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

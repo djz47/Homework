@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages-origin</folder>
+	<filename>cucumber33.jpg</filename>
+	<path>/home/ding/deeplearning_task/wainter_task5/VOCdevkit/VOC2007/JPEGImages-origin/cucumber33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cucumber_plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>15</ymin>
+			<xmax>242</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

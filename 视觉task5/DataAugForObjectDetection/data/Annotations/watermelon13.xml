@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages-origin</folder>
+	<filename>watermelon13.jpg</filename>
+	<path>/home/ding/deeplearning_task/wainter_task5/VOCdevkit/VOC2007/JPEGImages-origin/watermelon13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>39</ymin>
+			<xmax>749</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>
