@@ -1,0 +1,2 @@
+coord_transform:coordinate_msgs
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/ding/ROS_Learn/winter_learning_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ding/ROS_Learn/winter_learning_ws/install -G Unix Makefiles

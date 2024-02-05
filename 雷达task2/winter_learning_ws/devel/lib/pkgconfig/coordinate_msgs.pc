@@ -1,0 +1,8 @@
+prefix=/home/ding/ROS_Learn/winter_learning_ws/devel
+
+Name: coordinate_msgs
+Description: Description of coordinate_msgs
+Version: 0.0.0
+Cflags: -I/home/ding/ROS_Learn/winter_learning_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_generation message_runtime std_msgs

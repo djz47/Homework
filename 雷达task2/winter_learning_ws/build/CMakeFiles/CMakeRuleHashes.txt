@@ -1,0 +1,26 @@
+# Hashes of file build rules.
+ad0f0ec45e060816723d9f53eff7f66a /home/ding/ROS_Learn/winter_learning_ws/devel/include/coordinate_msgs/Pose.h
+8cc45553c1e762b2f04baa2821a3e0a9 /home/ding/ROS_Learn/winter_learning_ws/devel/include/coordinate_msgs/PoseArray.h
+829f911f6354b2bb7cff513dce3915fc /home/ding/ROS_Learn/winter_learning_ws/devel/include/coordinate_msgs/coordinate.h
+c7bc9b1c4f96d7d7da89b7da5c7fa4d3 /home/ding/ROS_Learn/winter_learning_ws/devel/lib/python3/dist-packages/coordinate_msgs/msg/_Pose.py
+452c3479369ef1586c801df57425fb64 /home/ding/ROS_Learn/winter_learning_ws/devel/lib/python3/dist-packages/coordinate_msgs/msg/_PoseArray.py
+7ab0231658cd53db5f58e34eae42d610 /home/ding/ROS_Learn/winter_learning_ws/devel/lib/python3/dist-packages/coordinate_msgs/msg/__init__.py
+a4d78332640243ef94f976fc007d56c2 /home/ding/ROS_Learn/winter_learning_ws/devel/lib/python3/dist-packages/coordinate_msgs/msg/_coordinate.py
+6aa095f043a499e91acced0e7cd902f1 /home/ding/ROS_Learn/winter_learning_ws/devel/share/common-lisp/ros/coordinate_msgs/msg/Pose.lisp
+11be92b5673a3b872c8b3c7986985e54 /home/ding/ROS_Learn/winter_learning_ws/devel/share/common-lisp/ros/coordinate_msgs/msg/PoseArray.lisp
+4b4663ae30657af1af17a21472655d7d /home/ding/ROS_Learn/winter_learning_ws/devel/share/common-lisp/ros/coordinate_msgs/msg/coordinate.lisp
+ea6a79931ff077ef3730e23c3a62e521 /home/ding/ROS_Learn/winter_learning_ws/devel/share/gennodejs/ros/coordinate_msgs/msg/Pose.js
+e3fd8752d588321a433c1da59effd26e /home/ding/ROS_Learn/winter_learning_ws/devel/share/gennodejs/ros/coordinate_msgs/msg/PoseArray.js
+52d2f0f2350ee27dba8964a95873248e /home/ding/ROS_Learn/winter_learning_ws/devel/share/gennodejs/ros/coordinate_msgs/msg/coordinate.js
+5d0867b495732a054b0d6f74b9cf8f55 /home/ding/ROS_Learn/winter_learning_ws/devel/share/roseus/ros/coordinate_msgs/manifest.l
+839c1146ae413c85ab8e33492b66f7b2 /home/ding/ROS_Learn/winter_learning_ws/devel/share/roseus/ros/coordinate_msgs/msg/Pose.l
+0bdd2d94afff88ce4be4c1ebc6e15eaa /home/ding/ROS_Learn/winter_learning_ws/devel/share/roseus/ros/coordinate_msgs/msg/PoseArray.l
+0f056ca719bedef2454a292ae0682c5e /home/ding/ROS_Learn/winter_learning_ws/devel/share/roseus/ros/coordinate_msgs/msg/coordinate.l
+af565e7bfafa9e92141822dcbaaac03b CMakeFiles/clean_test_results
+effa28066d372e9168a3b8201a967b5b coordinate_msgs/CMakeFiles/_coordinate_msgs_generate_messages_check_deps_Pose
+b8c462180e1074783d326c8c3b110177 coordinate_msgs/CMakeFiles/_coordinate_msgs_generate_messages_check_deps_PoseArray
+15060d0bdc6a82a31f575d0e09ce47b2 coordinate_msgs/CMakeFiles/coordinate_msgs_generate_messages_cpp
+15060d0bdc6a82a31f575d0e09ce47b2 coordinate_msgs/CMakeFiles/coordinate_msgs_generate_messages_eus
+15060d0bdc6a82a31f575d0e09ce47b2 coordinate_msgs/CMakeFiles/coordinate_msgs_generate_messages_lisp
+15060d0bdc6a82a31f575d0e09ce47b2 coordinate_msgs/CMakeFiles/coordinate_msgs_generate_messages_nodejs
+15060d0bdc6a82a31f575d0e09ce47b2 coordinate_msgs/CMakeFiles/coordinate_msgs_generate_messages_py
