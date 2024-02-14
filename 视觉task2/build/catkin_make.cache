@@ -1,2 +1,0 @@
-image_catch
--DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/ding/winter_train/ROS_vision/image_work/task2/devel -DCMAKE_INSTALL_PREFIX=/home/ding/winter_train/ROS_vision/image_work/task2/install -G Unix Makefiles
